@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+backend/app/__pycache__/
+frontend/node_modules/
+frontend/dist/
+data/
+*.sqlite
+*.db
+*.mp4
+*.mkv
+*.mov
+*.log
+.coverage
